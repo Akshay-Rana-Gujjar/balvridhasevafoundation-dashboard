@@ -1,0 +1,10 @@
+.home-container {
+    padding: 0 20px;
+}
+
+.campaign-img {
+    width: 300px;
+    height: auto;
+    max-height: 200px;
+    object-fit: cover;
+}
